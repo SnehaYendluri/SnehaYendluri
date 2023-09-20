@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SnehaYendluri, I'm a sophmore at the University of Colorado, Boulder majoring in computer science. 
-- 👀 I’m interested in coding, making fun projects 
-- 🌱 I’m currently learning C++, python and Java.
+- 👋 Hi, I’m @SnehaYendluri, I'm a senior at the University of Colorado, Boulder majoring in computer science.
+I am seeking a new grad role in software development, leveraging my 1-2 years of valuable industrial experience in full-stack development and cybersecurity to create innovative and secure digital solutions.
 - 📫 You can reach me on https://www.linkedin.com/in/snehayendluri/
 
 <!---
